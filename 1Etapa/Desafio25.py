@@ -6,7 +6,7 @@ letra = input('Digite uma letra: ').upper()
 os.system("cls")
 
 # Exibe se a letra for uma vogal
-if letra in ['a','e','i','o','u']:
+if letra in ['A','E','I','O','U']:
     print(20*"*")
     print()
     print(f'{letra} é uma vogal')
