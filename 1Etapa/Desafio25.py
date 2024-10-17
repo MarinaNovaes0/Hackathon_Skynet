@@ -1,4 +1,4 @@
-# Biblioteca
+# Bibliotecas
 import os
 
 # Variável letra
