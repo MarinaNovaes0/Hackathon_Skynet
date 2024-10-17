@@ -6,9 +6,9 @@ pes = float(input('Digite um valor em pés: '))
 os.system("cls")
 
 # Cálculo para polegada, jardas e milhas
-pol = pes / 12
-jar = 3 * pes
-mil = 5.28 * pes
+pol = pes * 12 
+jar = pes / 3   
+mil = pes / 5280 
 
 # Imprimindo resultado
 print(50*"*")
