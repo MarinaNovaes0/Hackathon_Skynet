@@ -1,4 +1,4 @@
-# Bibliotecas
+# Biblioteca
 import os
 
 # Declarando variáveis
